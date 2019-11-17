@@ -19,4 +19,4 @@ Steps:
 
 [Documentation on Nightmare](https://github.com/segmentio/nightmare)
 
-[Example from sweetcode.io] (https://sweetcode.io/simple-nightmarejs-smoke-test-sweetcode/)
+[Example from sweetcode.io](https://sweetcode.io/simple-nightmarejs-smoke-test-sweetcode/)
