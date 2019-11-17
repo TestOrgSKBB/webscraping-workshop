@@ -9,10 +9,9 @@ var nightmare = Nightmare({ show: true })
 
 nightmare
   .goto('https://orvis.com/gifts')
-  .wait(3000)
+  .wait(3000) //wait because of ad popup for orvis
   .click("a[href='https://www.orvis.com/store/../stocking-stuffers']")
-  .wait(1000)
-  // .click("a[href='https://www.orvis.com/store/../stocking-stuffers']")
+  .wait(1000) //wait again..there's a lot happening on this website
   .evaluate(function() {
     var giftNames = document.querySelectorAll('.TNAIL_PFName')
     var stockingStuffers = [].slice.call(giftNames)
