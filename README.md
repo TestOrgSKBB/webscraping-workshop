@@ -22,3 +22,5 @@ Steps:
 [Example from sweetcode.io](https://sweetcode.io/simple-nightmarejs-smoke-test-sweetcode/)
 
 [Medium article on array.slice.call](https://medium.com/@andrewsburke/array-prototype-slice-call-arguments-a94b04e74a4)
+
+[StackOverflow on array.slice.call](https://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work)
