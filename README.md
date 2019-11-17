@@ -20,3 +20,5 @@ Steps:
 [Documentation on Nightmare](https://github.com/segmentio/nightmare)
 
 [Example from sweetcode.io](https://sweetcode.io/simple-nightmarejs-smoke-test-sweetcode/)
+
+[Medium article on array.slice.call](https://medium.com/@andrewsburke/array-prototype-slice-call-arguments-a94b04e74a4)
